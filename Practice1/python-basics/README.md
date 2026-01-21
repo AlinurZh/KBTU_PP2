@@ -7,3 +7,4 @@ This folder contains basic Python examples from W3Schools.
 - variables.py — variables examples
 - data_types.py — data types examples
 - strings.py — string operations
+- comments.py – create comments
