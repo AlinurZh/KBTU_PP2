@@ -1,7 +1,30 @@
-# The else keyword catches anything which isn't caught by the preceding conditions.
+# Simple if/else
 a = 200
 b = 33
 if b > a:
-  print("b is greater than a")
+    print("b is greater than a")
 else:
-  print("b is not greater than a")
+    print("b is not greater than a")
+
+# Checking even or odd numbers
+number = 7
+if number % 2 == 0:
+    print("The number is even")
+else:
+    print("The number is odd")
+
+# Validating user input
+username = "Emil"
+if len(username) > 0:
+    print(f"Welcome, {username}!")
+else:
+    print("Error: Username cannot be empty")
+
+# Using 'pass' in specific branches
+value = 50
+if value < 0:
+    print("Negative value")
+elif value == 0:
+    pass  # Zero case - no action needed
+else:
+    print("Positive value")
