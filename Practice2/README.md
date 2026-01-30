@@ -1,5 +1,9 @@
-Practice 2 - Python Control Flow Basics.
-Structure:
+# Practice 2 - Python Control Flow Basics
+
+This repository contains learning examples for Python control flow, organized into categories.
+
+## Project Structure
+```text
 Practice2/
 ├── boolean/
 │   ├── boolean_intro.py
