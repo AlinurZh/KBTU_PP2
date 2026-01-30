@@ -1,27 +1,16 @@
-# Boolean_comparison.py
-# Boolean values in comparison
-a = 200
-b = 33
+# Basic comparison operations
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
 
-if b > a:
-  print("b is greater than a")
-else:
-  print("b is not greater than a")
+# Using isinstance to check the data type
+x = 200
+print(isinstance(x, int))
 
-# Functions can return a boolean 
-def myFunction(n):
-    if n >= 9 and n <= 12:
-        return True
-    else:
-        return False
+# ADDED: Inequality operator
+print(5 != "5") # True, because an integer is not equal to a string
 
-n = int(input("Enter a number: "))
-
-if myFunction(n):
-    print("YES!")
-else:
-    print("NO!")
-
-
-
-
+# ADDED: Comparing lists (Checks if content is identical)
+list_a = [1, 2]
+list_b = [1, 2]
+print(list_a == list_b) # True
