@@ -42,6 +42,6 @@ Practice4/sample-data.json
 
 Practice6/file_handling/*.txt
 
-Practice7/database.ini
+Practice7/Phonebook/database.ini
 
-Practice7/contacts.csv
+Practice7/Phonebook/contacts.csv
