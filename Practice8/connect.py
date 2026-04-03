@@ -1,10 +1,13 @@
 import psycopg2
-from config import host, database, user, password
+from config import load_config
 
 def connect():
-    return psycopg2.connect(
-        host=host,
-        database=database,
-        user=user,
-        password=password
-    )
+    try:
+        config = load_config()
+        conn = psycopg2.connect(**config)
+        return conn
+    except Exception as e:
+        print("Error connecting to database", e)
+        return None
+
+
