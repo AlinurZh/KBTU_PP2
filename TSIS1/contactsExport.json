@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "username": "Beka",
+    "main_phone": "+77086598623",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "extra_phones": []
+  },
+  {
+    "id": 10,
+    "username": "TEST1",
+    "main_phone": "+77056541256",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "extra_phones": []
+  },
+  {
+    "id": 11,
+    "username": "Alinur",
+    "main_phone": "+77055802377",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "extra_phones": []
+  },
+  {
+    "id": 12,
+    "username": "Asylzhan",
+    "main_phone": "+77476543598",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "extra_phones": []
+  },
+  {
+    "id": 13,
+    "username": "Karina",
+    "main_phone": "+77056435963",
+    "email": null,
+    "birthday": null,
+    "group": null,
+    "extra_phones": []
+  },
+  {
+    "id": 14,
+    "username": "Alina",
+    "main_phone": "+77001112233",
+    "email": "alina@gmail.com",
+    "birthday": "1990-05-14",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77001112233",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "username": "Bober",
+    "main_phone": "+77009998877",
+    "email": "bober@work.kz",
+    "birthday": "1985-11-30",
+    "group": "Work",
+    "extra_phones": [
+      {
+        "phone": "+77009998877",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "username": "Carol",
+    "main_phone": "+77012223344",
+    "email": "carol@family.kz",
+    "birthday": "1972-03-22",
+    "group": "Family",
+    "extra_phones": [
+      {
+        "phone": "+77012223344",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "username": "Keanu_Reeves",
+    "main_phone": "+77011234567",
+    "email": "keanu@matrix.com",
+    "birthday": "1964-09-02",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77011234568",
+        "type": "work"
+      },
+      {
+        "phone": "+77011234569",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "username": "Aizat_Bekova",
+    "main_phone": "+77751234567",
+    "email": "aizat@kbtu.kz",
+    "birthday": "2002-03-15",
+    "group": "Work",
+    "extra_phones": [
+      {
+        "phone": "+77751234568",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "username": "Daniyar_Seitkali",
+    "main_phone": "+77081234567",
+    "email": "daniyar@mail.ru",
+    "birthday": "2001-07-22",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77081234568",
+        "type": "home"
+      },
+      {
+        "phone": "+77081234569",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "username": "Medina_Akhmetova",
+    "main_phone": "+77771234567",
+    "email": "medina@gmail.com",
+    "birthday": "2003-11-05",
+    "group": "Family",
+    "extra_phones": []
+  },
+  {
+    "id": 31,
+    "username": "Zarina_Nurlanovna",
+    "main_phone": "+77761234570",
+    "email": "zarina@yandex.kz",
+    "birthday": "2000-04-30",
+    "group": "Family",
+    "extra_phones": [
+      {
+        "phone": "+77761234571",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77761234572",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "username": "Elon_Musk",
+    "main_phone": "+77777777777",
+    "email": "elon@spacex.com",
+    "birthday": "1971-06-28",
+    "group": "Work",
+    "extra_phones": [
+      {
+        "phone": "+77021234568",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77021234569",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "username": "Naruto_Uzumaki",
+    "main_phone": "+77471234567",
+    "email": "naruto@konoha.jp",
+    "birthday": "1999-10-10",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77471234568",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "username": "Walter_White",
+    "main_phone": "+77089624536",
+    "email": "heisenberg@gmail.com",
+    "birthday": "1958-09-07",
+    "group": "Other",
+    "extra_phones": [
+      {
+        "phone": "+77051234568",
+        "type": "home"
+      },
+      {
+        "phone": "+77051234569",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "username": "Sherlock_Holmes",
+    "main_phone": "+77761234567",
+    "email": "sherlock@baker.st",
+    "birthday": "1854-01-06",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77761234568",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "username": "Tony_Stark",
+    "main_phone": "+77773256973",
+    "email": "ironman@starkindustries.com",
+    "birthday": "1970-05-29",
+    "group": "Work",
+    "extra_phones": [
+      {
+        "phone": "+77071234568",
+        "type": "work"
+      },
+      {
+        "phone": "+77071234569",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77071234570",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "username": "Hermione_Granger",
+    "main_phone": "+77781234567",
+    "email": "hermione@hogwarts.edu",
+    "birthday": "1979-09-19",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77781234568",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "username": "Darth_Vader",
+    "main_phone": "+77001234567",
+    "email": "vader@empire.com",
+    "birthday": "1977-05-25",
+    "group": "Other",
+    "extra_phones": [
+      {
+        "phone": "+77001234568",
+        "type": "work"
+      },
+      {
+        "phone": "+77001234569",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "username": "SpongeBob_Square",
+    "main_phone": "+77056432596",
+    "email": "spongebob@bikini.bottom",
+    "birthday": "1986-07-14",
+    "group": "Other",
+    "extra_phones": [
+      {
+        "phone": "+77031234568",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "username": "Gordon_Ramsay",
+    "main_phone": "+77481234567",
+    "email": "gordon@hellskitchen.com",
+    "birthday": "1966-11-08",
+    "group": "Other",
+    "extra_phones": [
+      {
+        "phone": "+77481234568",
+        "type": "work"
+      },
+      {
+        "phone": "+77481234569",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "username": "Bilbo_Baggins",
+    "main_phone": "+77091234567",
+    "email": "bilbo@shire.me",
+    "birthday": "1990-09-22",
+    "group": "Friend",
+    "extra_phones": [
+      {
+        "phone": "+77091234568",
+        "type": "home"
+      }
+    ]
+  }
+]
