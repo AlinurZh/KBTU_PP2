@@ -1,11 +1,11 @@
 import psycopg2
-from config import DB_CONFIG
-
+from config import load_config
 
 def connect():
     try:
-        conn = psycopg2.connect(**DB_CONFIG)
+        config = load_config()
+        conn = psycopg2.connect(**config)
         return conn
-    except psycopg2.Error as e:
-        print("Connection error:", e)
+    except Exception as e:
+        print("Error connecting to database:", e)
         return None
